@@ -9,8 +9,8 @@
 
 This project solves the classic **8-puzzle problem** using two search algorithms:
 
-- **Depth-First Search (DFS)** – Tasks A1 and A2  
-- **A\* Search** – Tasks B1 and B2 (with Manhattan distance heuristic)
+- **Depth-First Search (DFS)** – Tasks A1 and B1  
+- **A\* Search** – Tasks A2 and B2 (with Manhattan distance heuristic)
 
 According to the assignment requirements, since the student ID is **odd**, DFS and A\* are implemented.
 
@@ -23,8 +23,8 @@ According to the assignment requirements, since the student ID is **odd**, DFS a
 ├── base.py                # Common data structures and helper functions
 ├── dfs_solver.py          # DFS implementation
 ├── astar_solver.py        # A* implementation
-├── main.py                # Run all tasks (A1, A2, B1, B2)
-└── requirements.txt       # Python requirements
+└── main.py                # Run all tasks (A1, A2, B1, B2)
+
 ```
 
 
